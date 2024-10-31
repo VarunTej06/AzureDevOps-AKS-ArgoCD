@@ -46,6 +46,9 @@ To remove them, run:
 kubectl delete -f k8s-specifications/
 ```
 
+## Script to update Manifets files
+https://github.com/VarunTej06/sampleScripts/blob/main/script.sh
+
 ## Architecture
 
 ![Architecture diagram](architecture.excalidraw.png)
